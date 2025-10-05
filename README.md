@@ -6,8 +6,8 @@ Each project reflects what I’ve learned — from programming fundamentals to c
 I hope you enjoy exploring my work! 🚀
 
 
-Sudoku game in Python: https://github.com/themissellier/SUDOKU_pygame
+# Sudoku game in Python: https://github.com/themissellier/SUDOKU_pygame
 
-Beach picture in C language: https://github.com/themissellier/Beach-picture-in-C-language
+# Beach picture in C language: https://github.com/themissellier/Beach-picture-in-C-language
 
-K-means Image Posterization in C Language: https://github.com/themissellier/K-means-for-posterization-of-images-in-C-
+# K-means Image Posterization in C Language: https://github.com/themissellier/K-means-for-posterization-of-images-in-C-
