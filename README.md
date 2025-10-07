@@ -14,4 +14,6 @@ I hope you enjoy exploring my work! 🚀
 
 ##### 3D Room scene in POV-Ray: https://github.com/themissellier/POV-Ray-living-room-scene
 
-##### K-nearest neighbors visualization with crosses in C and OpenGL: https://github.com/themissellier/K-Nearest-Neighbors-KNN-Visualization-in-C-and-OpenGL
+##### K-nearest neighbors visualization with crosses in C and OpenGL (GLFW): https://github.com/themissellier/K-Nearest-Neighbors-KNN-Visualization-in-C-and-OpenGL
+
+##### BreakOut Game in C and OpenGL (GLFW):https://github.com/themissellier/BreakOut-Game
