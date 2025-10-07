@@ -11,3 +11,5 @@ I hope you enjoy exploring my work! 🚀
 ##### Beach picture in C language: https://github.com/themissellier/Beach-picture-in-C-language
 
 ##### K-means Image Posterization in C Language: https://github.com/themissellier/K-means-for-posterization-of-images-in-C-
+
+##### 3D Room scene in POV-Ray: https://github.com/themissellier/POV-Ray-living-room-scene
