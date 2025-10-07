@@ -13,3 +13,5 @@ I hope you enjoy exploring my work! 🚀
 ##### K-means Image Posterization in C Language: https://github.com/themissellier/K-means-for-posterization-of-images-in-C-
 
 ##### 3D Room scene in POV-Ray: https://github.com/themissellier/POV-Ray-living-room-scene
+
+##### K-nearest neighbors with crosses in C and OpenGL: https://github.com/themissellier/K-Nearest-Neighbors-KNN-Visualization-in-C-and-OpenGL
