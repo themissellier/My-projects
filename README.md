@@ -6,7 +6,7 @@ Each project reflects what I’ve learned — from programming fundamentals to c
 I hope you enjoy exploring my work! 🚀
 
 
-* ##### LED Matrix, Matrix of points in Qt: https://github.com/themissellier/Matrix-of-points---QtCreator
+* ##### LED Matrix, Matrix of points in Qt: https://github.com/themissellier/Matrix-of-points---Qt
 
 * ##### Sudoku game in Python: https://github.com/themissellier/SUDOKU_pygame
 
